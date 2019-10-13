@@ -1,0 +1,9 @@
+gettign perm error
+solution
+i deleted node_modules mannualy
+
+alseo 
+
+https://stackoverflow.com/questions/22325031/npm-please-try-using-this-command-again-as-root-administrator
+
+C:\Users\samsung\AppData\Roaming\npm-cache
